@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DayPrinter", "DayPrinter\DayPrinter.xproj", "{B3E76AAA-3BE8-49C7-A831-64EF68C6F28D}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GradebookDict", "GradebookDict\GradebookDict.xproj", "{EFCB1B91-2E92-478F-BFF7-013FF6911DCC}"
 EndProject
 Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "GradebookArray", "GradebookArray\GradebookArray.xproj", "{89051A0E-8D18-48C3-B4E6-D05F62D252CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenAdd", "EvenAdd\EvenAdd.csproj", "{559A8570-ADEE-4E5F-9572-B2F4E10DF5BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{89051A0E-8D18-48C3-B4E6-D05F62D252CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89051A0E-8D18-48C3-B4E6-D05F62D252CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89051A0E-8D18-48C3-B4E6-D05F62D252CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559A8570-ADEE-4E5F-9572-B2F4E10DF5BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559A8570-ADEE-4E5F-9572-B2F4E10DF5BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559A8570-ADEE-4E5F-9572-B2F4E10DF5BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559A8570-ADEE-4E5F-9572-B2F4E10DF5BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
